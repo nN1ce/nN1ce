@@ -74,8 +74,8 @@
 ***1. Тестирование UI***
 
 - [GIT](https://github.com/nN1ce/qaguru_pageobject02_lesson07_hw)
-- 
-
+- [Jenkins](https://jenkins.autotests.cloud/job/002-nN1ce-lesson07/)
+- [Allure](https://jenkins.autotests.cloud/job/002-nN1ce-lesson07/10/allure/)
 
 ---
 

@@ -19,8 +19,9 @@
 <div id="header" align="center">  
   <img src="https://komarev.com/ghpvc/?username=nN1ce&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hey there
+    Привет
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    меня зовут Евгений
   </h1>
 </div>  
 <div align="center">
@@ -31,11 +32,18 @@
     Дипломный проект по автоматизации тестирования на Python. 
   </h1>
 </div>  
+<div id="header" align="left">  
+  <body>
+    <B>Введение:</B>
+  </body>
+</div>  
+
 <p>Рад сообщить, что мое обучение на <<<a href=https://qa.guru/python>Курсе инженеров по автоматизации тестирования на Python</a>>> от школы <a href=https://qa.guru/python>Qa.Guru</a> подходит к концу.</p> 
-<p>В этом проекте постараюсь выделить все осоновные моменты и инструменты, которые теперь будут помагать мне в Нашем нелегком деле
+<p>В этом проекте постараюсь выделить все осоновные моменты и инструменты, которые теперь будут помагать мне в Нашем нелегком деле.</p>
   
 ---
-  ### :hammer_and_wrench: Некоторый стек инструментов с курсов:
+
+  ### :hammer_and_wrench: Некоторый стек инструментов с курсов: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
@@ -54,7 +62,7 @@
 
 ---
 
-### :fire: За время обучения, была проделана большая работа:
+ :fire: За время обучения, была проделана большая работа:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nN1ce&theme=solarized_dark)
 
@@ -62,6 +70,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nN1ce&theme=solarized_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nN1ce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 
 
 

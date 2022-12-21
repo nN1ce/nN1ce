@@ -73,17 +73,25 @@
 
 ***1. Тестирование UI***
 
+- [GIT](https://github.com/nN1ce/qaguru_pageobject02_lesson07_hw)
+- 
+
+
 ---
 
 ***2. Тестирование API***
+
+- [GIT](https://github.com/nN1ce/qa_guru_lesson18_API_IV)
+- [Jenkins](https://jenkins.autotests.cloud/job/002-nN1ce-API-Check/)
+- [Allure](https://jenkins.autotests.cloud/job/002-nN1ce-API-Check/allure/)
 
 ---
 
 ***3. Mobile автотесты***
 
 - [GIT](https://github.com/nN1ce/qa_guru_lesson19_mobile_hw)
- - [Jenkins](https://jenkins.autotests.cloud/job/002-nN1ce-MobileTesting-Jenkins-lesson19/)
-  - [Allure](https://jenkins.autotests.cloud/job/002-nN1ce-MobileTesting-Jenkins-lesson19/2/allure/#suites/40519761ceade02aeb1134ce2cb7bc55/83e21a1b7ca879ab/)
+- [Jenkins](https://jenkins.autotests.cloud/job/002-nN1ce-MobileTesting-Jenkins-lesson19/)
+- [Allure](https://jenkins.autotests.cloud/job/002-nN1ce-MobileTesting-Jenkins-lesson19/2/allure/#suites/40519761ceade02aeb1134ce2cb7bc55/83e21a1b7ca879ab/)
 
-
+---
 

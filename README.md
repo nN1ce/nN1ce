@@ -100,7 +100,7 @@
 
 ## :bar_chart: По всем сборкам формируются отчеты о прохождении тестов 
   
-![Screenshot_158](https://user-images.githubusercontent.com/83226881/208872412-6057bff8-5613-41b7-8f44-c0617871b4a9.jpg) width="20" height="20"
+![Screenshot_158](https://user-images.githubusercontent.com/83226881/208872412-6057bff8-5613-41b7-8f44-c0617871b4a9.jpg)
 ![Screenshot_159](https://user-images.githubusercontent.com/83226881/208872432-a986fc8c-4f1b-410e-8d6b-38ae0dfd33b5.jpg)
 ![Screenshot_160](https://user-images.githubusercontent.com/83226881/208872491-bffa5276-ae75-4c75-a187-98571b939588.jpg)
 

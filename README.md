@@ -95,3 +95,30 @@
 
 ---
 
+&#8287;&#8287;&#8287;&#8287;&#8287;
+
+
+## :bar_chart: По всем сборкам формируются отчеты о прохождении тестов 
+  
+![Screenshot_158](https://user-images.githubusercontent.com/83226881/208872412-6057bff8-5613-41b7-8f44-c0617871b4a9.jpg) width="20" height="20"
+![Screenshot_159](https://user-images.githubusercontent.com/83226881/208872432-a986fc8c-4f1b-410e-8d6b-38ae0dfd33b5.jpg)
+![Screenshot_160](https://user-images.githubusercontent.com/83226881/208872491-bffa5276-ae75-4c75-a187-98571b939588.jpg)
+
+### <img src="https://thumbs.dreamstime.com/b/киев-украина-ое-октября-телеграмма-популярные-социальные-медиа-кнопку-198650314.jpg" width="20" height="20"  alt="telegram"/> Telegram
+
+И отправляется краткий отчет в Telegram
+
+![382](https://user-images.githubusercontent.com/83226881/208872843-a54ac17a-c2bf-4d02-9ee7-0ed2636c514e.png)
+
+### <img src="https://miro.medium.com/max/384/1*yi_zMeX9r9U9XqEwBpirBA.png" width="20" height="20"  alt="allure"/>Есть возможность при формировании отчета прикреплять видео прохождения тестов
+
+
+https://user-images.githubusercontent.com/83226881/208874705-db2bf95e-8be9-4da8-bf3d-8340c796f472.mp4
+
+
+
+
+https://user-images.githubusercontent.com/83226881/208874719-32919c9b-9d65-459a-8904-d4485c21d260.mp4
+
+
+

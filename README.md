@@ -81,7 +81,9 @@
 
 ***3. Mobile автотесты***
 
-
+- [GIT](https://github.com/nN1ce/qa_guru_lesson19_mobile_hw)
+ - [Jenkins](https://jenkins.autotests.cloud/job/002-nN1ce-MobileTesting-Jenkins-lesson19/)
+  - [Allure](https://jenkins.autotests.cloud/job/002-nN1ce-MobileTesting-Jenkins-lesson19/2/allure/#suites/40519761ceade02aeb1134ce2cb7bc55/83e21a1b7ca879ab/)
 
 
 

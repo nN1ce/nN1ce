@@ -19,9 +19,9 @@
 <div id="header" align="center">  
   <img src="https://komarev.com/ghpvc/?username=nN1ce&style=flat-square&color=blue" alt=""/>
   <h1>
-    Привет
+    <I>Привет</I>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    меня зовут Евгений
+    <I>меня зовут Евгений</I>
   </h1>
 </div>  
 <div align="center">
@@ -29,14 +29,12 @@
 </div>
 <div id="header" align="center">  
   <h1>
-    Дипломный проект по автоматизации тестирования на Python. 
+    <I>Дипломный проект по автоматизации тестирования на Python.</I>
   </h1>
 </div>  
-<div id="header" align="left">  
-  <body>
-    <B>Введение:</B>
-  </body>
-</div>  
+
+***Введение:***
+ 
 
 <p>Рад сообщить, что мое обучение на <<<a href=https://qa.guru/python>Курсе инженеров по автоматизации тестирования на Python</a>>> от школы <a href=https://qa.guru/python>Qa.Guru</a> подходит к концу.</p> 
 <p>В этом проекте постараюсь выделить все осоновные моменты и инструменты, которые теперь будут помагать мне в Нашем нелегком деле.</p>
@@ -72,6 +70,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nN1ce&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+***1. Тестирование UI***
+
+---
+
+***2. Тестирование API***
+
+---
+
+***3. Mobile автотесты***
+
 
 
 

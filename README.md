@@ -110,7 +110,9 @@
 
 ![382](https://user-images.githubusercontent.com/83226881/208872843-a54ac17a-c2bf-4d02-9ee7-0ed2636c514e.png)
 
-### <img src="https://miro.medium.com/max/384/1*yi_zMeX9r9U9XqEwBpirBA.png" width="20" height="20"  alt="allure"/>Есть возможность при формировании отчета прикреплять видео прохождения тестов
+### <img src="https://miro.medium.com/max/384/1*yi_zMeX9r9U9XqEwBpirBA.png" width="20" height="20"  alt="allure"/>
+
+Есть возможность при формировании отчета прикреплять видео прохождения тестов
 
 
 https://user-images.githubusercontent.com/83226881/208874705-db2bf95e-8be9-4da8-bf3d-8340c796f472.mp4
